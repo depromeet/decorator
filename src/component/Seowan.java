@@ -1,12 +1,21 @@
 package component;
 
-public class Seowan extends Member{
+import java.util.List;
+
+public class Seowan extends Member {
+
+	public Seowan() {
+		super();
+		nameList.add("Seowan");
+	}
 
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
-		nameList.add("Seowan");
-		return String.join(", ", nameList);
+		return "Seowan";
 	}
 
+	@Override
+	public List<String> getNameList() {
+		return nameList;
+	}
 }

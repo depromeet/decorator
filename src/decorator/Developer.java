@@ -2,21 +2,22 @@ package decorator;
 
 import component.Member;
 
-public class Developer extends Prefix {
+import java.util.List;
+
+public class Developer extends MemberDecorator {
 	
 	public Developer(Member member) {
-		// TODO Auto-generated constructor stub
 		super(member);
+		member.getNameList().add("Developer");
 	}
 
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
-		String name = member.getName();
-
-		member.getNameList().add("Developer");
-		return String.join(", ", member.getNameList());
-
+		return "Developer " + member.getName();
 	}
 
+	@Override
+	public List<String> getNameList() {
+		return member.getNameList();
+	}
 }
