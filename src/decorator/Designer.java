@@ -1,3 +1,6 @@
+package decorator;
+
+import component.Member;
 
 public class Designer extends Prefix {
 
@@ -8,6 +11,9 @@ public class Designer extends Prefix {
 	@Override
 	public String getName() {
 		// TODO Auto-generated method stub
-		return "Designer " + member.getName();
+		String name = member.getName();
+
+		member.getNameList().add("Designer");
+		return String.join(", ", member.getNameList());
 	}
 }

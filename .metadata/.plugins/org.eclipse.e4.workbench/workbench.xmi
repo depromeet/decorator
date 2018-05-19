@@ -2085,7 +2085,7 @@
   <commands xmi:id="_xumGzlspEeihk5vNnBZ9Vg" elementId="org.eclipse.mylyn.tasks.ui.command.activateTask" commandName="Activate Task" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xumtsFspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.history.CreateTag" commandName="Create Tag..." category="_xuicV1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xumtsVspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.search.occurrences.in.file.quickMenu" commandName="Show Occurrences in File Quick Menu" description="Shows the Occurrences in File quick menu" category="_xuica1spEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xumtslspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.goto.next.member" commandName="Go to Next Member" description="Move the caret to the next member of the JavaScript file" category="_xuicX1spEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xumtslspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.goto.next.member" commandName="Go to Next component.Member" description="Move the caret to the next member of the JavaScript file" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xumts1spEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.edit.text.toggleInsertMode" commandName="Toggle Insert Mode" description="Toggle insert mode" category="_xuicQFspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xumttFspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.RepositoriesViewDelete" commandName="Delete Repository" category="_xuicbFspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xumttVspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.file.closePart" commandName="Close Part" description="Close the active workbench part" category="_xuicS1spEeihk5vNnBZ9Vg"/>
@@ -2345,7 +2345,7 @@
   <commands xmi:id="_xupKE1spEeihk5vNnBZ9Vg" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot Test" description="Coverage SWTBot Test" category="_xuicTVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupKFFspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.show.outline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupKFVspEeihk5vNnBZ9Vg" elementId="org.eclipse.jst.jsp.ui.refactor.move" commandName="Move" description="Move a Java Element to another package" category="_xuicQFspEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xupKFlspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.goto.next.member" commandName="Go to Next Member" description="Move the caret to the next member of the compilation unit" category="_xuicX1spEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xupKFlspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.goto.next.member" commandName="Go to Next component.Member" description="Move the caret to the next member of the compilation unit" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupKF1spEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.project.rebuildProject" commandName="Rebuild Project" description="Rebuild the selected projects" category="_xuicaVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupKGFspEeihk5vNnBZ9Vg" elementId="org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.tableschemaeditor.pastecolumn" commandName="Paste" category="_xuicZVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupKGVspEeihk5vNnBZ9Vg" elementId="org.eclipse.m2e.core.pomFileAction.run" commandName="Run Maven Build" description="Run Maven Build" category="_xuicTVspEeihk5vNnBZ9Vg"/>
@@ -2392,7 +2392,7 @@
   <commands xmi:id="_xupxF1spEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.search.read.access.in.project" commandName="Read Access in Project" description="Search for read references to the selected element in the enclosing project" category="_xuica1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxGFspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.file.closeAllSaved" commandName="Close All Saved" description="Close all saved editors" category="_xuicSlspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxGVspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.server.launchShortcut.run" commandName="Run on Server" description="Run the current selection on a server" category="_xuicTVspEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xupxGlspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.move.inner.to.top.level" commandName="Convert Member Type to Top Level" description="Convert member type to top level" category="_xuicWFspEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xupxGlspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.move.inner.to.top.level" commandName="Convert component.Member Type to Top Level" description="Convert member type to top level" category="_xuicWFspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxG1spEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.edit.redo" commandName="Redo" description="Redo the last operation" category="_xuicQFspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxHFspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.server.launchShortcut.debug" commandName="Debug on Server" description="Debug the current selection on a server" category="_xuicTVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxHVspEeihk5vNnBZ9Vg" elementId="org.eclipse.m2e.editor.RenameArtifactAction" commandName="Rename Maven Artifact..." category="_xuicV1spEeihk5vNnBZ9Vg"/>
@@ -2406,7 +2406,7 @@
   <commands xmi:id="_xupxJVspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.history.CherryPick" commandName="Cherry Pick" category="_xuicV1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxJlspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.file.close" commandName="Close" description="Close the active editor" category="_xuicSlspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxJ1spEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.surround.with.try.catch" commandName="Surround with try/catch Block" description="Surround the selected text with a try/catch block" category="_xuiccVspEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xupxKFspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.goto.previous.member" commandName="Go to Previous Member" description="Move the caret to the previous member of the compilation unit" category="_xuicX1spEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xupxKFspEeihk5vNnBZ9Vg" elementId="org.eclipse.jdt.ui.edit.text.java.goto.previous.member" commandName="Go to Previous component.Member" description="Move the caret to the previous member of the compilation unit" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xupxKVspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.history.Reset" commandName="Reset..." category="_xuicV1spEeihk5vNnBZ9Vg">
     <parameters xmi:id="_xupxKlspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.history.ResetMode" name="Reset mode" optional="false"/>
   </commands>
@@ -2883,7 +2883,7 @@
   <commands xmi:id="_xuuCu1spEeihk5vNnBZ9Vg" elementId="org.eclipse.buildship.ui.shortcut.test.run" commandName="Run Gradle Test" description="Run Gradle test based on the current selection" category="_xuicTVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xuuCvFspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.ide.configureColumns" commandName="Configure Columns..." description="Configure the columns in the markers view" category="_xuicV1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xuuCvVspEeihk5vNnBZ9Vg" elementId="org.eclipse.egit.ui.team.ReplaceWithCommit" commandName="Replace with commit" category="_xuicbFspEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xuuCvlspEeihk5vNnBZ9Vg" elementId="org.eclipse.jst.pagedesigner.design" commandName="Graphical Designer" category="_xuicW1spEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xuuCvlspEeihk5vNnBZ9Vg" elementId="org.eclipse.jst.pagedesigner.design" commandName="Graphical decorator.Designer" category="_xuicW1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xuupgFspEeihk5vNnBZ9Vg" elementId="org.eclipse.tm.terminal.quickaccess" commandName="Quick Access" category="_xuicalspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xuupgVspEeihk5vNnBZ9Vg" elementId="org.eclipse.debug.ui.commands.DebugLast" commandName="Debug" description="Launch in debug mode" category="_xuicTVspEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xuupglspEeihk5vNnBZ9Vg" elementId="org.eclipse.mylyn.wikitext.ui.convertToHtmlCommand" commandName="Generate HTML" category="_xuicV1spEeihk5vNnBZ9Vg"/>
@@ -3004,7 +3004,7 @@
     <parameters xmi:id="_xuvQqVspEeihk5vNnBZ9Vg" elementId="filePath" name="File Path" typeId="org.eclipse.ui.ide.resourcePath"/>
   </commands>
   <commands xmi:id="_xuvQqlspEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.correction.addBlock.assist" commandName="Quick Assist - Replace statement with block" description="Invokes quick assist and selects 'Replace statement with block'" category="_xuicRVspEeihk5vNnBZ9Vg"/>
-  <commands xmi:id="_xuvQq1spEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.goto.previous.member" commandName="Go to Previous Member" description="Move the caret to the previous member of the JavaScript file" category="_xuicX1spEeihk5vNnBZ9Vg"/>
+  <commands xmi:id="_xuvQq1spEeihk5vNnBZ9Vg" elementId="org.eclipse.wst.jsdt.ui.edit.text.java.goto.previous.member" commandName="Go to Previous component.Member" description="Move the caret to the previous member of the JavaScript file" category="_xuicX1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xv_00FspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.cocoa.arrangeWindowsInFront" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" commandName="%command.arrangeWindows.name" description="%command.arrangeWindows.desc" category="_xuicS1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xwAb4FspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.cocoa.minimizeWindow" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" commandName="%command.minimize.name" description="%command.minimize.desc" category="_xuicS1spEeihk5vNnBZ9Vg"/>
   <commands xmi:id="_xwAb4lspEeihk5vNnBZ9Vg" elementId="org.eclipse.ui.cocoa.fullscreenWindow" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" commandName="%command.fullscreen.name" description="%command.fullscreen.desc" category="_xuicS1spEeihk5vNnBZ9Vg"/>

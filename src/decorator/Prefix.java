@@ -1,13 +1,15 @@
+package decorator;
 
-public abstract class Prefix implements Member{
+import component.Member;
+
+public abstract class Prefix extends Member {
 	Member member;
 	
 	public Prefix(Member member) {
 		// TODO Auto-generated constructor stub
 		this.member = member;
 	}
-	
-	@Override
+
 	public abstract String getName();
-	
+
 }
